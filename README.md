@@ -95,10 +95,4 @@ Choose an appropriate open-source license for this repository (e.g., MIT, Apache
 Created and maintained by Mohit Mohanty.
 Live site: [https://mohitmohanty.github.io/cyberflow/](https://mohitmohanty.github.io/cyberflow/)
 
----
 
-If you'd like, I can:
-
-* Add a CONTRIBUTING.md and CODE_OF_CONDUCT.md.
-* Draft a short instructor's guide that maps detection examples (Wazuh event types) to each flow stage **without** providing offensive instructions.
-* Add a license file (tell me which license you prefer).
